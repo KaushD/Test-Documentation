@@ -23,6 +23,6 @@
 
 ## API Testing
 
-<p> This <a href= "https://github.com/KaushD/RestAPITest">Repository</a> is a sample test automation framework for REST API using Java, RESTAssured, Selenium, TestNG using a TDD approach.</p>
+<p> This <a href= "https://github.com/KaushD/RestAPITest">Repository</a> is a sample test automation framework for REST API using Java, RESTAssured, Selenium, TestNG using a TDD approach. This Test Framework development is still in-progress.</p>
 
-<p> This <a href= "https://github.com/KaushD/API-BDD">Repository</a> is a sample test automation framework for REST API using Java, RESTAssured, Selenium, TestNG using a BDD approach.</p>
+<p> This <a href= "https://github.com/KaushD/API-BDD">Repository</a> is a sample test automation framework for REST API using Java, RESTAssured, Selenium, TestNG using a BDD approach. This Test Framework development is still in-progress.</p>
