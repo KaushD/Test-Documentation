@@ -14,7 +14,7 @@
 
 <br>
 
-## Test Framework using C/#
+## Test Framework using C#
 
 <p> This <a href= "https://github.com/KaushD/NUnitTest">Repository</a> is a sample test automation framework written in C#, TestNG, Selenium. This Test Framework development is still in-progress.</p>
 
